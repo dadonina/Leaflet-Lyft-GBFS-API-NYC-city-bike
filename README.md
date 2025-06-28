@@ -4,11 +4,11 @@ This project is a sleek and modern web app that shows real-time information abou
 
 ## 🚀 Features
 
--Two base map styles: OpenStreetMap (default) and Esri Satellite
--Stations displayed as interactive circle markers
--Click on a station to see details: name, total capacity, available bikes, and available e-bikes
--Station status data is cached for 1 minute to optimize API calls
--Clean, dark-themed, and elegant UI with smooth popups and loading indicator
+- Two base map styles: OpenStreetMap (default) and Esri Satellite
+- Stations displayed as interactive circle markers
+- Click on a station to see details: name, total capacity, available bikes, and available e-bikes
+- Station status data is cached for 1 minute to optimize API calls
+- Clean, dark-themed, and elegant UI with smooth popups and loading indicator
 
 ## 🖼️ Demo
 
@@ -16,11 +16,11 @@ This project is a sleek and modern web app that shows real-time information abou
 
 ## ⚙️ Technologies
 
--HTML/CSS/JavaScript
--Leaflet.js for maps
--Lyft GBFS APIs for station information and status:
--Station information: https://gbfs.lyft.com/gbfs/1.1/bkn/es/station_information.json
--Station status: https://gbfs.lyft.com/gbfs/1.1/bkn/es/station_status.json
+- HTML/CSS/JavaScript
+- Leaflet.js for maps
+- Lyft GBFS APIs for station information and status:
+- Station information: https://gbfs.lyft.com/gbfs/1.1/bkn/es/station_information.json
+- Station status: https://gbfs.lyft.com/gbfs/1.1/bkn/es/station_status.json
 ## 📦 Setup
 
 1. Clone this repository
