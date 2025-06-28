@@ -11,7 +11,7 @@ This project is a sleek and modern web app that shows real-time information abou
 - Clean, dark-themed, and elegant UI with smooth popups and loading indicator
 
 ## 🖼️ Demo
-
+https://nyc-bike.rutaplanner.com/
 ![Bike Stations demo](screenshots/image.png)
 
 ## ⚙️ Technologies
